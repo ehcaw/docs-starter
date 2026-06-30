@@ -66,6 +66,9 @@
             ]
           }
         ]
+      },
+      {
+        "sourceRef": "docs-wandis"
       }
     ],
     "global": {
